@@ -2,8 +2,8 @@
   font-family: fantasy;
 }
 
-nav {
+nav ul li a{
+  color: black;
   display: inline;
-padding: 20px; 
 
 }
